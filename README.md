@@ -5,7 +5,7 @@
 
 - 🤝 I’m looking for help with **My life**
 
-- 📫 How to reach me **Filbyrtus@seznam.cz**
+- 📫 How to reach me **0byrtus.filip@student.vskk.cz**
 
 - ⚡ Fun fact **I think that hot banana on waffles is the best**
 
