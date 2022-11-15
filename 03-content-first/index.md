@@ -1,6 +1,6 @@
-<b> Filip Byrtus </b>
+<h1> <b> Filip Byrtus </b>
 
-<i> Graphic designer </i>
+<i> Graphic designer </i> </h1>
 
 
 
@@ -9,7 +9,7 @@
 
 
 
-<h1> <i> Welcome, design-seekers </i> </h1>
+<h2> <i> Welcome, design-seekers </i> </h2>
 
 Currently, Im a student at VŠKK university in Prague. My study of graphic 
 design has been going on for 7 years, and will continue until there is no 
@@ -23,7 +23,7 @@ create!
 ![image](https://user-images.githubusercontent.com/116068097/201879676-1bbce480-1d97-4534-9140-03d4e512a95d.jpeg)
 
 
-<i>Something about me you ask? Alrighty then </i>
+<h2> <i>Something about me you ask? Alrighty then </i> </h2>
 
 I was born in very young age. Now 22 years old, Im living between my 
 hometown and “school-town.”
@@ -46,7 +46,7 @@ amaizing hobby that just costs me a few hours of my sleep. DJ! I love to make
 a crowd dance to tunes that I blast and to make people smile and sing. It just 
 warms my heart in a different way.
 
-<i> You want to see some work? Ok then! </i>
+<h2> <i> You want to see some work? Ok then! </i> </h2>
 
 
 Some background:
