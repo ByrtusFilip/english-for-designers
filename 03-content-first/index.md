@@ -73,7 +73,9 @@ There was a project that has been sitting idle for a long time;
 
 Make a logo for a company, simple enough, what could go wrong?
 
+
 <i> Oh boy was i wrong... </i>
+
 
 It was just a simple logo, nothing else, but the problem was in the assignement 
 of the instructions... “Make the logo so it represents what we do.”
@@ -93,7 +95,9 @@ help from experts on the insulation of residential units.
 Service of agricultural machinery, sale of seeds and fertilizers. Garden decoration expert 
 advice, lawnmoving services, preparation of gardens for ponds and water systems. </i>
 
+
 <right> <i> yea </i> </right>
+
 
 So there i was, consulting with every person that was in the company...
 
