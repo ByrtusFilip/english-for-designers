@@ -11,6 +11,6 @@ As of work speaking, freelancing is the main way. In my opinion, I have done a
 real broad field of work, so Im not affraid and excited to see, what you want to 
 create!
 
-My field of expertise:
+<center>My field of expertise:</center>
 ![image](https://user-images.githubusercontent.com/116068097/201879676-1bbce480-1d97-4534-9140-03d4e512a95d.jpeg)
 
