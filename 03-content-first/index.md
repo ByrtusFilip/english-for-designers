@@ -1,6 +1,8 @@
 <b> Filip Byrtus </b>
 <i> Graphic designer </i>
 
+<![image](https://user-images.githubusercontent.com/116068097/201880432-882e87d8-f4d2-4b0a-9cdf-f38e18553ff5.jpeg) width:"50" height:"50">
+
 
 Currently, Im a student at VŠKK university in Prague. My study of graphic 
 design has been going on for 7 years, and will continue until there is no 
