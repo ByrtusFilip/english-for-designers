@@ -53,18 +53,14 @@ warms my heart in a different way.
 
 Some background:
 
-
-Company: Yashica s.r.o.
-
-Type of work: Internship work
-
-Client: BlueGarpo
-
-Task: Create logo
-
-Deadline: 2 days
-
-Instructions: “Show what we do in the logo”
+<ol>
+  <li> Company: Yashica s.r.o. </li>
+  <li> Type of work: Internship work </li>
+  <li> Client: BlueGarpo </li>
+  <li> Task: Create logo </li>
+  <li> Deadline: 2 days </li>
+  <li> Instructions: “Show what we do in the logo” </li>
+</ol>
 
 
 One day, at my internship, there wasn’t much to do, so for the first time, our 
