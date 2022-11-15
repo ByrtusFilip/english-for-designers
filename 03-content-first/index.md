@@ -3,7 +3,7 @@
 <i> Graphic designer </i>
   </right>
 
-<center> ![image](https://user-images.githubusercontent.com/116068097/201880432-882e87d8-f4d2-4b0a-9cdf-f38e18553ff5.jpeg) </center>
+![image](https://user-images.githubusercontent.com/116068097/201880432-882e87d8-f4d2-4b0a-9cdf-f38e18553ff5.jpeg)
 
 
 <i> Welcome, design-seekers </i>
