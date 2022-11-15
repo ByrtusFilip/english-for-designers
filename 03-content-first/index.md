@@ -49,11 +49,18 @@ warms my heart in a different way.
 
 Some background:
 
+
 Company: Yashica s.r.o.
+
 Type of work: Internship work
+
 Client: BlueGarpo
+
 Task: Create logo
+
 Deadline: 2 days
+
 Instructions: “Show what we do in the logo”
+
 
 etc. etc.
