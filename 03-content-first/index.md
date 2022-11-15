@@ -63,4 +63,64 @@ Deadline: 2 days
 Instructions: “Show what we do in the logo”
 
 
-etc. etc.
+One day, at my internship, there wasn’t much to do, so for the first time, our 
+company executive called me to try something.
+
+There was a project that has been sitting idle for a long time; 
+
+<b> the BlueGarpo project. </b>
+
+
+Make a logo for a company, simple enough, what could go wrong?
+
+<i> Oh boy was i wrong... </i>
+
+It was just a simple logo, nothing else, but the problem was in the assignement 
+of the instructions... “Make the logo so it represents what we do.”
+
+Sounds reasonable, pretty usual actually. Was it as simple as everything else?
+
+<i> I couldn’t be more far from the truth... </i>
+
+Here is the problem, the company was <i> (takes a deep breath) </i>
+
+<i> provides clients with a comprehensive service in the area of ​sale and lease of real 
+estate, representation of clients in auctions and comprehensive accounting, tax and legal 
+advice, including management and debt collection.
+
+Installation of windows and seals.
+Preparation of building materials with the possibility of 
+help from experts on the insulation of residential units.
+
+Service of agricultural machinery, sale of seeds and fertilizers. Garden decoration expert 
+advice, lawnmoving services, preparation of gardens for ponds and water systems. </i>
+
+<right> <i> yea </i> </right>
+
+So there i was, consulting with every person that was in the company...
+
+
+First i started by sketching some ideas, that lead nowhere because I was 
+physicaly unable to create one symbol that would represent all... that.
+
+
+So I started working with just text, simple use of “if it doesn’t show what it is, 
+
+it can’t do any harm.
+
+That didn’t work because obviously it was againts the requirements of the task.
+
+![image](https://user-images.githubusercontent.com/116068097/201890953-f6767e3e-2a77-4661-bd32-c2ff9252d764.jpeg)
+
+So next me and one of my co-workers came up with an idea of “if they do 
+everything, just point to everything.”
+
+
+So I started working, creating variations, one improved from the other.
+
+![image](https://user-images.githubusercontent.com/116068097/201891128-fefe4e7f-8b2c-49ad-b7b0-0ff1b282ade3.jpeg)
+
+This actually proved to be a success, which our boss approved and after some 
+more consultation, we agreed to send this.
+
+![image](https://user-images.githubusercontent.com/116068097/201891316-8548ee53-bb43-46d6-a614-0aff5db3c27e.jpeg)
