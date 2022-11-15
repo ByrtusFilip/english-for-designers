@@ -1,4 +1,4 @@
-<h1> <center> <b> Filip Byrtus </b> / <i> Graphic designer </i> </center> </h1>
+<h1> <b> Filip Byrtus </b> / <i> Graphic designer </i> </h1>
 
 
 
@@ -19,6 +19,10 @@ create!
 
 <center> My field of expertise: </center>
 ![image](https://user-images.githubusercontent.com/116068097/201879676-1bbce480-1d97-4534-9140-03d4e512a95d.jpeg)
+
+I enjoy and preferably work in Adobe Creative Cloud. Lately i have been working in Figma, which I really enjoy.
+As a graphic designer, im kind of obligated to work in this enviroment. But it doesn't bother me, Im used to it and have studied my whole time in these, so I can label myself as <i> kind of oriented </i> in this.
+In meantime and if the works requieres it I work with my iPad in Procreate, that lets me draw on free will, like on paper!
 
 
 <h2> <i>Something about me you ask? Alrighty then </i> </h2>
