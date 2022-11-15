@@ -1,4 +1,4 @@
-<h1> <b> Filip Byrtus </b> / <i> Graphic designer </i> </h1>
+<h1> <center> <b> Filip Byrtus </b> / <i> Graphic designer </i> </center> </h1>
 
 
 
