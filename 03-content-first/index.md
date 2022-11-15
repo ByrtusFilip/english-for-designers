@@ -47,6 +47,7 @@ warms my heart in a different way.
 
 <i> You want to see some work? Ok then! </i>
 
+
 Some background:
 
 
@@ -87,11 +88,9 @@ Here is the problem, the company was <i> (takes a deep breath) </i>
 <i> provides clients with a comprehensive service in the area of ​sale and lease of real 
 estate, representation of clients in auctions and comprehensive accounting, tax and legal 
 advice, including management and debt collection.
-
 Installation of windows and seals.
 Preparation of building materials with the possibility of 
 help from experts on the insulation of residential units.
-
 Service of agricultural machinery, sale of seeds and fertilizers. Garden decoration expert 
 advice, lawnmoving services, preparation of gardens for ponds and water systems. </i>
 
