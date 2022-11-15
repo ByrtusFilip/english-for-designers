@@ -5,6 +5,7 @@
 
 
 <i> Welcome, design-seekers </i>
+
 Currently, Im a student at VŠKK university in Prague. My study of graphic 
 design has been going on for 7 years, and will continue until there is no 
 knowledge left.
@@ -18,6 +19,7 @@ create!
 
 
 <i>Something about me you ask? Alrighty then </i>
+
 I was born in very young age. Now 22 years old, Im living between my 
 hometown and “school-town.”
 
@@ -40,6 +42,7 @@ a crowd dance to tunes that I blast and to make people smile and sing. It just
 warms my heart in a different way.
 
 <i> You want to see some work? Ok then! </i>
+
 Some background:
 
 Company: Yashica s.r.o.
