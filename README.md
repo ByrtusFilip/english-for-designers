@@ -6,4 +6,4 @@ VŠKK student
 
 ## Work?
 
-In progress...
+In [progress...](index.md)
