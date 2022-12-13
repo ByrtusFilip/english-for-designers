@@ -2,8 +2,8 @@
 
 Five things that I learned this semester in 2022:
 
-1.
-2.
-3.
-4.
-5.
+1. -
+2. -
+3. -
+4. -
+5. -
