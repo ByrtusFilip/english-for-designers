@@ -5,7 +5,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 ## About me 
 
 - My story
-- Résumé
+- [Résumé](/04-experience/AJ-CV_Byrtus.pdf)
 - Contact: 0byrtus.filip@student.vskk.cz
 
 ## Case studies
@@ -22,3 +22,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 - [Content first](03-content-first/index.md)
 - Experience
 - [Voice & tone](05-voice-tone/index.md)
+
+## Extra
+
+- [Takeaways](/takeaway/index.md)
