@@ -1,9 +1,9 @@
 # English for designers
 
-## Filip Byrtus
+Filip Byrtus
 
 VŠKK student
 
-## Work?
+## Work
 
 In [progress...](index.md)
