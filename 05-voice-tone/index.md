@@ -6,9 +6,9 @@ An overview…
 
 If my brand was a person, I would like it to be a friend. A friend is a perfect explanation. It represents the goofy side, as well as the serious and helping side. I want my brand to be like its not the stereotypical machine that answers yes or no to your questions. I want to hear my clients desires and worries, so we can together figure it out.
 
-1. Authentic
-2. Confident, yet realistic
-3. Clear and understandable
+- Authentic
+- Confident, yet realistic
+- Clear and understandable
 
 ## Tone
 
