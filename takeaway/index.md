@@ -8,4 +8,6 @@ Five things that I learned this semester in 2022:
 4. What are the important details of our content
 5. Having a english native person is a whole different experience :)
 
-<img src="https://tenor.com/view/skeleton-dancing-skeleton-dancing-gif-509408" alt="Skelly Skellington GIF" width="30%">
+<p align="center">
+<img src="https://tenor.com/view/skeleton-dancing-skeleton-dancing-gif-509408" alt="Skelly Skellington GIF" 
+     style="width:200px;height:200px;">
