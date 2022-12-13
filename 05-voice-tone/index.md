@@ -12,7 +12,7 @@ If my brand was a person, I would like it to be a friend. A friend is a perfect 
 
 ## Tone
 
-Depending on the subject and size of the project, I tend to change my tone. When the work is not so hot, I tend to lean in the direction of a friendly and easy-taking form of communication. If I am cool, everyone will. Because chaos produces only more chaos. But, more serious manners sometimes (even from me) need a strong leading hand. If a suggestion doesn't make sence, don't be affraid to say it. Your suggestion is as important as theirs.
+Depending on the subject and size of the project, I tend to change my tone. When the work is not so hot, I tend to lean in the direction of a friendly and easy-taking form of communication. If I am cool, everyone else will be too. Because chaos produces only more chaos. But, more serious manners sometimes (even from me) need a strong leading hand. If a suggestion doesn't make sence, don't be affraid to say it. Your suggestion is as important as theirs.
 
 - Friendly
 - Honest
