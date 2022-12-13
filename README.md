@@ -22,3 +22,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 - [Content first](03-content-first/index.md)
 - Experience
 - [Voice & tone](05-voice-tone/index.md)
+
+## Extra
+
+- [Takeaways](/takeaway/index.md)
