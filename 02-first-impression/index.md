@@ -10,7 +10,7 @@ I enjoy and preferably work in Adobe Creative Cloud. Lately i have been working 
 
 # Havas project
 
-<img src="1 1-1.png" alt="A young beautiful výborný man"> 
+<img src="1 1-1.png" alt="A young beautiful výborný man" style="width:500px;height:600px;"> 
 <img src="2 1.png" alt="A young beautiful honziki man"> 
 <img src="3 61.png" alt="A young beautiful Fíla man">
 
