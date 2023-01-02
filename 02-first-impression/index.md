@@ -1,4 +1,6 @@
-Hi, my name is Filip.
+# Hi, my name is Filip.
+
+(profile_filip.jpeg)
 
 Currently, Im a student at VŠKK university in Prague. My study of graphic design has been going on for 7 years, and will continue until there is no knowledge left.
 
