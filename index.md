@@ -18,7 +18,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 ## Class work
 
 - [Alternative text](01-alternative-text/index.md)
-- First impression
+- [First impression](02-first-impression/index.md)
 - [Content first](03-content-first/index.md)
 - [Experience](04-experience/index.md)
 - [Voice & tone](05-voice-tone/index.md)
