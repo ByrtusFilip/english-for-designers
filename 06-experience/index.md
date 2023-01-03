@@ -2,4 +2,4 @@
 
 ## My CV
 
-<img src="AJ-CV_byrtus.jpg" alt="pěknej kluk">
+<img src="AJ-CV_¨Byrtus.jpg" alt="pěknej kluk">
