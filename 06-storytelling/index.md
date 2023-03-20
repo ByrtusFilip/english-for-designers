@@ -1,7 +1,7 @@
 # Self-critique VS Self-destruction
 A presentation, focusing on the impostor syndrome and the overall critique, we as people punish ourselfs with.
 
-Here is my [process](/6-storytelling/Process.md)
+Here is my [process](/6-storytelling/process.md)
 
 And here is my [presentation](/6-storytelling/AJOVT-Self-critique.pdf) (coming soon)
 
