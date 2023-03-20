@@ -4,7 +4,8 @@
 I'm one of you, and here are some ways you can try to use, to overcome, or at least try to lower the demon, that is trying to convice you, that you are not enough.
 
 ## WIP
-After coming up with the idea of this topic, i came up with a small [mindmap](/mindmap/index.md), that led me to the key components of my presentation. Next up i made a whole presentation, that I will be in the next week classes, completing to its finest form. 
+### 13.3.2023
+After coming up with the idea of this topic, i came up with a small [mindmap](/mindmap/index.md), that led me to the key components of my presentation. Next up i made a whole presentation, that I will be in the next week classes, completing to its finest form.
+### 20.3.2023
 Now I'm at a point of somewhat "half-done" work. I presented, and got a feedback with a simple "add more person(-ality)."
-
 My next step will be adding these "personal" parts, where I give specific examples of each step of my presentation, to give it a little bit of a "me" feel.
