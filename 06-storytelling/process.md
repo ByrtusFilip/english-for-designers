@@ -4,6 +4,10 @@
 I'm one of you, and here are some ways you can try to use, to overcome, or at least try to lower the demon, that is trying to convice you, that you are not enough.
 
 ## WIP
+### 1.3.2023
+We were tasked with coming up with a little brainstorm, just vomit out what are we going to think about, write it down. My ideas were a little messed up at the start, but then it all came up to a single theme; <b>self-critique.</b> All it was about is the doubt I have in myself and stuff around my own work... So I chose to go with the flow.
+### 8.3.2023
+In class, we weren't so keen on the progress, it was more about the thinking about the way we will present our subject of choice. We tried coming up with the names for our presentation, we also dove into the way of presenting correctly. But I came up with a name, and it will be <b>Self-critique VS Self-destruction.</b>
 ### 13.3.2023
 After coming up with the idea of this topic, i came up with a small [mindmap](/mindmap/index.md), that led me to the key components of my presentation. Next up i made a whole presentation, that I will be in the next week classes, completing to its finest form.
 ### 20.3.2023
