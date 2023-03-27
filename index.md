@@ -23,6 +23,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 - [Experience](04-experience/index.md)
 - [Voice & tone](05-voice-tone/index.md)
 - [Storytelling](06-storytelling/index.md)
+- [Thesis abstract](07-thesis-abstract/index.md)
 
 ## Extra
 
