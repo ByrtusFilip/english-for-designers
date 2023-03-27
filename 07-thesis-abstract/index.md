@@ -8,7 +8,7 @@ but have no way of promoting themselfs and getting their name out in the market.
 
 This festival is using the advances of new technology while working with the visual design,
 using the elements of the future, like in cyberpunk visual style, while using the techniques and ideas of old graphic designers, such as David Carson.
-The goal is to reach a specific target group with a very memorable, while simultaniously catching and eye and be attractive.
+The goal is to reach a specific target group with a very memorable design, while simultaniously catching and eye and be attractive.
 
 To expand possibilities of the festival, a big part of the work will be an app,
 that will be closely connected to the whole working operation of the system.
