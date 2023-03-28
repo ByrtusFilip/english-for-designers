@@ -16,7 +16,7 @@ storing tickets and giving you the opportunity to take a closer look at the pote
 that will be or can be on stage during the festival.
 
 ### Keywords
-<i> Festival, alternative, EDM, DJ, newcommers, cyberpunk, app </i>
+<i> Festival, alternative, EDM electronic dance music, DJ, newcommers, cyberpunk, app </i>
 
 ## Hemingway edit
 This paper focuses on a fictional alternative festival of electronic dance music. The main goal is to make a working design system and visual identity, that will represent an alternative approach to a festival of electronic dance music. I will be working with targeting a very specific part of the market, more specificaly the newcommers scene. This festival will give opportunities for those, who are talented and hard working in the music field, being great DJ's, making music or are vocally blessed, but have no way of promoting themselfs and getting their name out in the market.
