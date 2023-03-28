@@ -1,5 +1,4 @@
-# Thesis abstract - first draft
-## Fictional alternative festival of EDM
+# Thesis abstract - Fictional alternative festival of EDM
 This paper focuses on a fictional alternative festival of electronic dance music. 
 The main goal is to make a working design system and visual identity, that will represent an alternative approach to a festival of electronic dance music. 
 I will be working with targeting a very specific part of the market, more specificaly the newcommers scene. 
@@ -19,8 +18,7 @@ that will be or can be on stage during the festival.
 ### Key words
 <i> Festival, alternative, EDM, DJ, newcommers, cyberpunk, app </i>
 
-# Thesis abstract - Hemingway edit
-## Fictional alternative festival of EDM
+## Hemingway edit
 This paper focuses on a fictional alternative festival of electronic dance music. The main goal is to make a working design system and visual identity, that will represent an alternative approach to a festival of electronic dance music. I will be working with targeting a very specific part of the market, more specificaly the newcommers scene. This festival will give opportunities for those, who are talented and hard working in the music field, being great DJ's, making music or are vocally blessed, but have no way of promoting themselfs and getting their name out in the market.
 
 This festival is using the advances of new technology while working with the visual design, using the elements of the "future", like in cyberpunk visual style, while using the techniques and ideas of old graphic designers, such as David Carson. The goal is to reach a specific target group with a very memorable design, while simultaniously catching and eye and be attractive.
