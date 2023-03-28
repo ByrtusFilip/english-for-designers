@@ -17,4 +17,4 @@ storing tickets and giving you the opportunity to take a closer look at the pote
 that will be or can be on stage during the festival.
 
 ### Key words
-<b> Festival, alternative, EDM, DJ, newcommers, cyberpunk, app </b>
+<i> Festival, alternative, EDM, DJ, newcommers, cyberpunk, app </i>
