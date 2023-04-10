@@ -27,3 +27,10 @@ To expand possibilities of the festival, a big part of the work will be an app, 
 
 ### Keywords
 Festival, alternative, EDM, electronic dance music, DJ, newcommers, cyberpunk, app
+
+## Final edit (after feedback) with important points-only
+My bachelor work is a visual style for an fictional alternative festival of electronic music. Main goal of the festival is to support talented infamous artists.
+
+In theory part, I will explain the fundamentals of electronic dance music, or EDM. I will be analyzing the current market of festivals, as well as the alternative ones. There will be a brief presentation of the target group. Thanks to a survey, I will get a be getting an inside look of the target group.
+
+In the practical part, I will be presenting a visual style and the main idea behind it. Festival will have an image in forms of "creation." I will use graphic elements of cyberpunk, an near-future visual style. I will develop visuals for social media, print, merchandise and tickets. I will devise an app, that connects to the festival. It has a feed of videos of artists map with live location on the festival, ticket storing and an live stream function.
