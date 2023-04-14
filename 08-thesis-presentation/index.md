@@ -1,6 +1,6 @@
 # Thesis presentation
 
-My thesis presentation is in a video form, so if you want to take a look, gaze upon the glory of my 3 am [work.](
+My thesis presentation is in a video form, so if you want to take a look, gaze upon the glory of my 3 am [work.](https://youtu.be/5YujL3eA-ck)
 
 ## Readable form
 
