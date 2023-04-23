@@ -7,7 +7,7 @@ My thesis presentation is in a video form, so if you want to take a look, gaze u
 If the visuals in my video were <i>too damn fast</i>, take a look here where i briefly present the work with static visuals.
 
 ### Cyber Sapiens logo
-<img src="Logo Cyber Sapiens.jpg" alt="Cyber Sapiens logo">
+<img src="Logo Cyber Sapiens.png" alt="Cyber Sapiens logo">
 
 
 ### Basic liquid paint visual
