@@ -35,5 +35,15 @@ In theory part, I will explain the fundamentals of electronic dance music, or ED
 
 In the practical part, I will be presenting a visual style and the main idea behind it. Festival will have an image in forms of "creation." I will use graphic elements of cyberpunk, an near-future visual style. I will develop visuals for social media, print, merchandise and tickets. I will devise an app, that connects to the festival. It has a feed of videos of artists map with live location on the festival, ticket storing and an live stream function.
 
+## Final version used in my actual bachelor thesis
+My bachelor thesis is a visual style for a fictitious alternative electronic music festival. The main goal of the festival is to support talented musical artists who do not have the means to become famous.
+
+In the theoretical part I will explain the basics of electronic music or EDM. I will analyze the music festival market here in the Czech Republic and abroad. Subsequently, I analyze the market of music festivals with a similar theme of supporting talented unknown artists. Then I will explain the techniques that will make me want to create my visual communication. Finally, I will create a questionnaire to discover public opinion and confirm the expected target group.
+
+In the practical part, I will present the results of the questionnaire and determine the target group. Subsequently, I will introduce the concept of visual communication. I will describe the corporate identity of the festival and explain its graphic elements such as cyberpunk and the theme of creation. This will be followed by a presentation of the visual style for communication on social media. Furthermore, the practical part will include promotion of the performers, printed materials, tickets and advertising items. I also designed an application that is connected to the festival, and has features such as live streaming of the stage, purchase and storage of tickets, a map for orientation and the ability to look up the work of musical artists.
+
+### Keywords
+<i> Festival, Alternative, Electronic Dance Music, EDM, Cyberpunk, Music Artists, Unknown,App. </i>
+
 ### Keywords
 Festival, alternative, EDM, electronic dance music, cyberpunk, music artists, app
