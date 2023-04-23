@@ -49,7 +49,7 @@ If the visuals in my video were <i>too damn fast</i>, take a look here where i b
 <img src="Plakát - zrození.jpg" alt="Poster for promotion using the idea of creation">
 
 ### Rollups
-<img src="Rollup - maketa.jpg" alt="Rollups mockup used on stage to promote artists">
+<img src="RollUp - maketa.jpg" alt="Rollups mockup used on stage to promote artists">
 
 ### Merchandising: T-shirts
 <img src="Merch - trička - maketa.jpg" alt="Mockup of branded t-shirts">
