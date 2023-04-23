@@ -6,21 +6,19 @@ My thesis presentation is in a video form, so if you want to take a look, gaze u
 
 If the visuals in my video were <i>too damn fast</i>, take a look here where i briefly present the work with static visuals.
 
-### 
-
-Cyber Sapiens logo
-<img src="Sketch logo.jpg" alt="Mockup of Cyber Sapiens logo">
+### Cyber Sapiens logo
+<img src="Logo Cyber Sapiens.jpg" alt="Cyber Sapiens logo">
 
 
-Basic liquid paint visual
+### Basic liquid paint visual
 <img src="Liquid paint – základní.jpg" alt="Basic form of liquid paint used in visuals">
 
 
-Winter season: The Creation
+### Winter season: The Creation
 <img src="The Creation - IG.jpg" alt="Instagram post of winter festival named The Creation">
 
 
-Spring season: The Rising
+### Spring season: The Rising
 <img src="The Rising - IG.jpg" alt="Instagram post of spring festival named The Rising">
 
 
