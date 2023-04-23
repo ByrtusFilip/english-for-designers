@@ -7,7 +7,7 @@ And here is my [presentation in PDF form](AJOVT-06-storytelling.pdf)
 
 <em>Note: My presentation is <b>heavily</b> based on visuals, so if you want to know what I was talking about, you should have visited my TedTalk</em>
 
-<img src="[programming.gif](https://tenor.com/view/pepe-gif-19124743)" alt="Pepe leaving" style="width:48px;height:48px;">
+<img src="https://tenor.com/view/pepe-gif-19124743" alt="Pepe leaving" style="width:48px;height:48px;">
 
 
 Nah, just kidding, here is a brief insight.
