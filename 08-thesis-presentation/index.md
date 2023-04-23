@@ -40,7 +40,7 @@ If the visuals in my video were <i>too damn fast</i>, take a look here where i b
 <img src="Vstupenky - maketa.jpg" alt="Mockup of tickets for festival The Emerging">
 
 ### ID bracelet
-<img src="identifikační náramek.jpg" alt="ID bracelet for entering and paying at the festival">
+<img src="Identifikační náramek.jpg" alt="ID bracelet for entering and paying at the festival">
 
 ### Promotion poster: Artists
 <img src="Plakát - Hidden.jpg" alt="Poster for promotion using the idea of hidden artist">
