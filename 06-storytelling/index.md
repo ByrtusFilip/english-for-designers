@@ -82,9 +82,13 @@ Let's face it, you heard these in your head before:
 
 <i>
   1. It was luck or coincidance 
+  
   2. Im not good enough for this 
+  
   3. I must do this alone 
+  
   4. I must be perfect at everything
+  
   5. Don't ask, they'll think you're stupid
 </i>
 
