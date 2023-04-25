@@ -25,6 +25,7 @@ Welcome to my page! Here is some info, that might make you wanna be my friend.
 - [Storytelling](06-storytelling/index.md)
 - [Thesis abstract](07-thesis-abstract/index.md)
 - [Thesis presentation](08-thesis-presentation/index.md)
+- [Year end review](year-end-review/index.md)
 
 ## Extra
 
