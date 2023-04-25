@@ -106,4 +106,5 @@ Remember, your work matters, you matter. You are a productive person in the comm
 
 <i>stay cool my broskies</i>
 
+<img src="hug-love.gif" alt="Cat kissing you" style="width:148px;height:148px;">
 
