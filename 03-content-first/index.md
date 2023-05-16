@@ -126,3 +126,13 @@ This actually proved to be a success, which our boss approved and after some
 more consultation, we agreed to send this.
 
 ![image](https://user-images.githubusercontent.com/116068097/201891316-8548ee53-bb43-46d6-a614-0aff5db3c27e.jpeg)
+
+## Result
+
+Even after all these problems and hard work put into this, the client went a different way, in the most unexpected way possible.
+
+They changed their line of profession and chose a different logo to go with.
+
+Here is their current [site]https://www.garpo.cz/
+
+Am I mad for all the work being tossed in the trash? Really not. Im glad that they chose a different approach to resulting their problem. And I agree, that this is the best way to resolve this. Not every work you do for someone will be used, people change their minds, things evolve. You can't take this personaly, rather accept it and learn from it, and continue improving yourself!
